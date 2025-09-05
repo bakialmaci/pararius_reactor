@@ -1,0 +1,14 @@
+# Virtual env
+venv/
+__pycache__/
+*.pyc
+
+# Local configs
+session.json
+*.env
+*.log
+
+# IDE configs
+.vscode/
+.idea/
+.DS_Store

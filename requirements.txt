@@ -1,0 +1,11 @@
+# HTML parsing
+beautifulsoup4>=4.12.0
+
+# Browser automation
+playwright>=1.46.0
+
+# HTTP requests (optional but common)
+requests>=2.32.0
+
+# Testing
+pytest>=8.2.0
